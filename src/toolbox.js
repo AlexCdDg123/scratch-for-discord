@@ -532,6 +532,7 @@ export default (Blockly, value) => {
         <block type="everyn"/>
         <label text="ㅤ" web-class="boldtext"></label>
         <block type="new_invite"/>
+        <block type="invite_ur"/>
 	</category>
  	</category>
 
