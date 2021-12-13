@@ -522,6 +522,7 @@ export default (Blockly, value) => {
 	</category>
 	<category name="Channel" colour="#0c97f0">
         <block type="isdm"/>
+        <block type="first_channel"/>
         <label text="ㅤ" web-class="boldtext"></label>
         <block type="category_channel"/>
         <block type="vcategory_channel"/>
