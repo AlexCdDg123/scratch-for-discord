@@ -15,7 +15,7 @@ Blockly.Blocks[blockName] = {
   }
 };
 
-Blockly.JavaScript[blockName] = function (block) {
+Blockly.JavaScript[blockName] = function () {
   const code =  `invite.url`;
   return code;
 };
