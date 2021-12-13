@@ -9,6 +9,7 @@ import "./higrole";
 import "./isdm";
 import "./everyone";
 import "./colorofmember";
+import "./createinvite";
 import "./channel_category";
 import "./channel_perms";
 import "./vchannel_category";
