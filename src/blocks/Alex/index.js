@@ -13,6 +13,7 @@ import "./colorofmember";
 import "./createinvite";
 import "./channel_category";
 import "./channel_perms";
+import "./firstchannel";
 import "./vchannel_category";
 import "./role_color";
 import "./role_name";
