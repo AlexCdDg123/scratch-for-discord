@@ -522,11 +522,16 @@ export default (Blockly, value) => {
 	</category>
 	<category name="Channel" colour="#0c97f0">
         <block type="isdm"/>
+        <label text="ㅤ" web-class="boldtext"></label>
         <block type="category_channel"/>
         <block type="vcategory_channel"/>
+        <label text="ㅤ" web-class="boldtext"></label>
         <block type="renamec"/>
+        <label text="ㅤ" web-class="boldtext"></label>
         <block type="channel_perms"/>
         <block type="everyn"/>
+        <label text="ㅤ" web-class="boldtext"></label>
+        <block type="new_invite"/>
 	</category>
  	</category>
 
