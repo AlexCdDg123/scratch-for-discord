@@ -6,7 +6,8 @@ const blockData = {
   "message0": "Invite URL",
   "colour": "#502e6e",
   "tooltip": "",
-  "helpUrl": ""
+  "helpUrl": "",
+  "output": "String"
 }
 
 Blockly.Blocks[blockName] = {
