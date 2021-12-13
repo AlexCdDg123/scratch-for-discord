@@ -1,6 +1,7 @@
 import "./tts";
 import "./image_search";
 import "./url";
+import "./inviteurl"
 import "./tstart";
 import "./tchannel";
 import "./tmember";
