@@ -519,6 +519,8 @@ export default (Blockly, value) => {
         <label text="ㅤ" web-class="boldtext"></label>
         <block type="role_color"/>
         <block type="role_name"/>
+        <label text="ㅤ" web-class="boldtext"></label>
+        <block type="all_roles"/>
 	</category>
 	<category name="Channel" colour="#0c97f0">
         <block type="isdm"/>
