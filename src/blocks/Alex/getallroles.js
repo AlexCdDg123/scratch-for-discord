@@ -1,6 +1,6 @@
 import * as Blockly from "blockly/core";
 
-const blockName = "all_roles";
+const blockName = "get_all_roles";
 
 const blockData = {
 
