@@ -7,7 +7,7 @@ const blockData = {
   "message0": "All roles",
   "name": "roles",
   "output": "String",
-  "colour": "#05a386",
+  "colour": "#56afdb",
   "tooltip": "",
   "helpUrl": ""
 }
